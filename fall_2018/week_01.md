@@ -1,22 +1,16 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
+> I tried git many times. I understand pull, push, and branch and their functions. I am ready to do my works!
 
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+> I decide I will join Front-end team. Although I interned in a company abd learned some related knowledge three years ago, I need to review them and learn some new knowledge.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
+> My Programming Language and Intro to Game Design have deadline on next week. I need to make a plan to distribute my time rationally.
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+> 
