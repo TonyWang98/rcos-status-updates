@@ -9,7 +9,7 @@
 
 ## Anything Blocking?
 
-> I need to manage my time carefully.
+> I need to manage my time carefully in this week.
 
 ## Notes
 
